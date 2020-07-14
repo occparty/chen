@@ -11,14 +11,14 @@ var documents = [{
     "body": "This website is a demonstration to see Memoirs Jekyll theme in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github.  Get Memoirs for Jekyll → "
     }, {
     "id": 2,
+    "url": "http://localhost:4000/apply",
+    "title": "Apply @chen.am address here",
+    "body": "  This is basically a forwarding service. Please leave your desire name ( the string you would like to use before @ ) and destination address here. Little-an will reply as soon as possible!   "
+    }, {
+    "id": 3,
     "url": "http://localhost:4000/categories",
     "title": "Categories",
     "body": ""
-    }, {
-    "id": 3,
-    "url": "http://localhost:4000/contact",
-    "title": "Contact",
-    "body": "  Please send your message to We Chens. We will reply as soon as possible!   "
     }, {
     "id": 4,
     "url": "http://localhost:4000/",
