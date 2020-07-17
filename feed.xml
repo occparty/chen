@@ -5,13 +5,13 @@
     <description>We're on the fabulous world of exploration. Travel, Eat, Play, Love!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 14 Jul 2020 18:13:34 +0800</pubDate>
-    <lastBuildDate>Tue, 14 Jul 2020 18:13:34 +0800</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2020 16:33:08 +0800</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2020 16:33:08 +0800</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
         <title>TEST</title>
-        <description>&lt;p&gt;Within the Hôtel de Crillon, which was built in 1758, Les Ambassadeurs operated as a restaurant since the mid-19th century. It reached its peak of fame as a restaurant and nightclub (a café-concert) in the last three decades of the 19th century.&lt;/p&gt;
+        <description>&lt;p&gt;Within 中文繁體簡體字型 the Hôtel de Crillon, which was built in 1758, Les Ambassadeurs operated as a restaurant since the mid-19th century. It reached its peak of fame as a restaurant and nightclub (a café-concert) in the last three decades of the 19th century.&lt;/p&gt;
 
 &lt;p&gt;Always a center of entertainment for the aristocracy, in the 1870s it also became a regular destination of some of the best known figures of art and the demi-monde. Edgar Degas and Henri de Toulouse-Lautrec portrayed visitors at the night club, and Aristide Bruant performed there.&lt;/p&gt;
 
@@ -26,8 +26,8 @@
 &lt;p&gt;In 2017 Hache opened a smaller restaurant, L’Écrin, within the renovated hotel; the former space of Les Ambassadeurs became a bar.&lt;/p&gt;
 </description>
         <pubDate>Mon, 13 Jul 2020 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/TEST-Copy/</link>
-        <guid isPermaLink="true">http://localhost:4000/TEST-Copy/</guid>
+        <link>http://localhost:4000/TEST/</link>
+        <guid isPermaLink="true">http://localhost:4000/TEST/</guid>
         
         <category>TEST</category>
         
