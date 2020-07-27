@@ -23,7 +23,7 @@ var documents = [{
     "id": 4,
     "url": "http://localhost:4000/",
     "title": "Home",
-    "body": "                                                                                              爐主們              :       from 2020:                                                                               An                 13 Jul 2020                                "
+    "body": "                                                                                              好Benz              :       謝謝大哥的 梅龍鎮!:                                                                               An                 18 Jul 2020                                                                                                                          爐主們              :       from 2020&gt; 俊男 2020 &gt; 育麟 2021 &gt; 小安 2022 &gt; 小毅 2023 &gt; 豪 2024 &gt; 大姊姊 2025:                                                                               An                 13 Jul 2020                                "
     }, {
     "id": 5,
     "url": "http://localhost:4000/robots.txt",
@@ -31,9 +31,14 @@ var documents = [{
     "body": "      Sitemap: {{ “sitemap. xml”   absolute_url }}   "
     }, {
     "id": 6,
+    "url": "http://localhost:4000/dinnerparty/",
+    "title": "好Benz",
+    "body": "2020/07/18 - 謝謝大哥的 梅龍鎮! 帥車亮晶晶: "
+    }, {
+    "id": 7,
     "url": "http://localhost:4000/chairmans/",
     "title": "爐主們",
-    "body": "2020/07/13 - from 2020  俊男 2020 &gt; 育麟 2021 &gt; 小安 2022 &gt; 小毅 2023 &gt; 豪 2024 &gt; 大姊姊 2025 "
+    "body": "2020/07/13 - from 2020 &gt; 俊男 2020 &gt; 育麟 2021 &gt; 小安 2022 &gt; 小毅 2023 &gt; 豪 2024 &gt; 大姊姊 2025"
     }];
 
 var idx = lunr(function () {
