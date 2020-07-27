@@ -7,8 +7,8 @@ var documents = [{
     }, {
     "id": 1,
     "url": "http://localhost:4000/about",
-    "title": "Memoirs, a free minimalist Jekyll blogging theme with modern design",
-    "body": "This website is a demonstration to see Memoirs Jekyll theme in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github.  Get Memoirs for Jekyll → "
+    "title": "We're on the fabulous world of exploration. Travel, Eat, Play, Love!",
+    "body": "&gt; 豪 2017, 野柳泊逸酒店 &gt; 喬松 2018, 石門半島秘境 &gt; 喬男 2019, 宜蘭頭城農場 &gt; 俊男 2020, 五結綠舞飯店 &gt; 育麟 2021 &gt; 小安 2022 &gt; 小毅 2023 &gt; 豪 2024 &gt; 大姐姐 2025 "
     }, {
     "id": 2,
     "url": "http://localhost:4000/apply",
@@ -23,7 +23,7 @@ var documents = [{
     "id": 4,
     "url": "http://localhost:4000/",
     "title": "Home",
-    "body": "                                                                                              好Benz              :       謝謝大哥的 梅龍鎮!:                                                                               An                 18 Jul 2020                                                                                                                          爐主們              :       from 2020&gt; 俊男 2020 &gt; 育麟 2021 &gt; 小安 2022 &gt; 小毅 2023 &gt; 豪 2024 &gt; 大姊姊 2025:                                                                               An                 13 Jul 2020                                "
+    "body": "                                                                                              好Benz              :       謝謝大哥的 梅龍鎮!:                                                                               An                 18 Jul 2020                                                                                                                          爐主們              :       year 2020:                                                                               An                 13 Jul 2020                                "
     }, {
     "id": 5,
     "url": "http://localhost:4000/robots.txt",
@@ -38,7 +38,7 @@ var documents = [{
     "id": 7,
     "url": "http://localhost:4000/chairmans/",
     "title": "爐主們",
-    "body": "2020/07/13 - from 2020 &gt; 俊男 2020 &gt; 育麟 2021 &gt; 小安 2022 &gt; 小毅 2023 &gt; 豪 2024 &gt; 大姊姊 2025"
+    "body": "2020/07/13 - year 2020 俊男 2020, 五結綠舞飯店 &gt; 育麟 2021 &gt; 小安 2022 &gt; 小毅 2023 &gt; 豪 2024 &gt; 大姐姐 2025 and past years "
     }];
 
 var idx = lunr(function () {
