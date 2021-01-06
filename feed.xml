@@ -3,11 +3,11 @@
   <channel>
     <title>The Chens</title>
     <description>北投 陳</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 27 Jul 2020 13:34:42 +0800</pubDate>
-    <lastBuildDate>Mon, 27 Jul 2020 13:34:42 +0800</lastBuildDate>
-    <generator>Jekyll v4.1.1</generator>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 06 Jan 2021 16:29:26 +0800</pubDate>
+    <lastBuildDate>Wed, 06 Jan 2021 16:29:26 +0800</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
     
       <item>
         <title>好Benz</title>
@@ -16,8 +16,8 @@
 &lt;h4 id=&quot;帥車亮晶晶&quot;&gt;帥車亮晶晶&lt;/h4&gt;
 </description>
         <pubDate>Sat, 18 Jul 2020 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/dinnerparty/</link>
-        <guid isPermaLink="true">http://localhost:4000/dinnerparty/</guid>
+        <link>/dinnerparty/</link>
+        <guid isPermaLink="true">/dinnerparty/</guid>
         
         <category>Cars</category>
         
@@ -35,8 +35,8 @@
 &lt;p&gt;and &lt;a href=&quot;https://chen.am/about&quot;&gt;past years&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 13 Jul 2020 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/chairmans/</link>
-        <guid isPermaLink="true">http://localhost:4000/chairmans/</guid>
+        <link>/chairmans/</link>
+        <guid isPermaLink="true">/chairmans/</guid>
         
         <category>important</category>
         

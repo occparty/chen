@@ -1,42 +1,42 @@
 
 var documents = [{
     "id": 0,
-    "url": "http://localhost:4000/404.html",
+    "url": "/404.html",
     "title": "404",
     "body": "404 Page not found!Please use the search bar from the bottom left or visit our homepage! "
     }, {
     "id": 1,
-    "url": "http://localhost:4000/about",
+    "url": "/about",
     "title": "We're on the fabulous world of exploration. Travel, Eat, Play, Love!",
     "body": "&gt; 豪 2017, 野柳泊逸酒店 &gt; 喬松 2018, 石門半島秘境 &gt; 喬男 2019, 宜蘭頭城農場 &gt; 俊男 2020, 五結綠舞飯店 &gt; 育麟 2021 &gt; 小安 2022 &gt; 小毅 2023 &gt; 豪 2024 &gt; 大姐姐 2025 "
     }, {
     "id": 2,
-    "url": "http://localhost:4000/apply",
+    "url": "/apply",
     "title": "Apply @chen.am address here",
     "body": "  This is basically a forwarding service. Please leave your desire name ( the string you would like to use before @ ) and destination address here. Little-an will reply as soon as possible!   "
     }, {
     "id": 3,
-    "url": "http://localhost:4000/categories",
+    "url": "/categories",
     "title": "Categories",
     "body": ""
     }, {
     "id": 4,
-    "url": "http://localhost:4000/",
+    "url": "/",
     "title": "Home",
-    "body": "                                                                                              好Benz              :       謝謝大哥的 梅龍鎮!:                                                                               An                 18 Jul 2020                                                                                                                          爐主們              :       year 2020:                                                                               An                 13 Jul 2020                                "
+    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 5,
-    "url": "http://localhost:4000/robots.txt",
+    "url": "/robots.txt",
     "title": "",
     "body": "      Sitemap: {{ “sitemap. xml”   absolute_url }}   "
     }, {
     "id": 6,
-    "url": "http://localhost:4000/dinnerparty/",
+    "url": "/dinnerparty/",
     "title": "好Benz",
     "body": "2020/07/18 - 謝謝大哥的 梅龍鎮! 帥車亮晶晶: "
     }, {
     "id": 7,
-    "url": "http://localhost:4000/chairmans/",
+    "url": "/chairmans/",
     "title": "爐主們",
     "body": "2020/07/13 - year 2020 俊男 2020, 五結綠舞飯店 &gt; 育麟 2021 &gt; 小安 2022 &gt; 小毅 2023 &gt; 豪 2024 &gt; 大姐姐 2025 and past years "
     }];
